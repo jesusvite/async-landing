@@ -1,0 +1,15 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "creacion de una landing page utilizando una API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "node"
+  ],
+  "author": "Jesus Nicolas Vite",
+  "license": "MIT"
+}
