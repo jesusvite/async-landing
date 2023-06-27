@@ -11,5 +11,8 @@
     "node"
   ],
   "author": "Jesus Nicolas Vite",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
