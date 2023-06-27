@@ -4,15 +4,11 @@
   "description": "creacion de una landing page utilizando una API",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
   },
   "keywords": [
     "Javascript",
     "node"
   ],
   "author": "Jesus Nicolas Vite",
-  "license": "MIT",
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
-  }
+  "license": "MIT"
 }
