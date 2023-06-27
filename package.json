@@ -4,7 +4,7 @@
   "description": "creacion de una landing page utilizando una API",
   "main": "index.js",
   "scripts": {
-    "deploy":"gh-page -d src"
+    "deploy":"gh-pages -d src"
   },
   "keywords": [
     "Javascript",
